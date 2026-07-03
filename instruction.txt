@@ -1,0 +1,6 @@
+Task: Restaurant Menu
+Decission:
+- The restaurant's name, and what goes where the logo would be
+- How many categories to split the menu into, and how to arrange them
+- Whether to show a crossed-out original price next to discount, or just the offer price
+- Where to place te "Order Now" button, and how to make it stand out
